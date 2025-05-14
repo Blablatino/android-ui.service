@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "323078084932",
+    "firebase_url": "https://spysuit-bde22-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "spysuit-bde22",
+    "storage_bucket": "spysuit-bde22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323078084932:android:2a456c75e9a36b98941f11",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAInYncwCid-CV5B7LLcS-L1mM5GyPBcm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
